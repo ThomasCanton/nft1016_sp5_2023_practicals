@@ -59,3 +59,12 @@ def foo():
     if not bar:
         return True
 ```
+
+Task 8:
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
+ 
+ 
+![alt text](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg "Picture title")
+ 
+ 

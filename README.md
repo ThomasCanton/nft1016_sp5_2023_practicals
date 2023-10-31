@@ -74,3 +74,12 @@ Task 8:
 | 1     | Blue | 10 |
 | 2     | White      |   11 |
 | 3 | Red      |    12 |
+
+
+Task 10 :
+ 
+```python
+def my_function():
+  print("Hello from a function")
+  ```
+ 

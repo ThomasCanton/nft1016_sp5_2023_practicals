@@ -1,5 +1,22 @@
-Task 1 and 2
-
-<a document.getElementById('box').innerHTML = '<li>The link was pressed 1 times.</li>'; href="#" onclick="alert('Hey!');">Click me</a>
-
-
+<html>
+<head>
+    <title>Week 12</title>
+ 
+    <script>
+        counter = 0;
+ 
+        function countClicks(element) {
+            counter = counter + 1;
+            var output = 'The link was pressed ' + counter + ' times.';
+            element.innerHTML = output;
+    }
+</script>
+ 
+</head>
+<body>
+    <h1>JavaScript Demo</h1>
+    <a href="#" onclick="countClicks(this);">Click me</a>
+    <p id="boxy"></p>
+    <br>
+</body>
+</html>

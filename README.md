@@ -67,4 +67,10 @@ Task 8:
  
 ![alt text](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg "Picture title")
  
+ Task : 9
  
+| Number        | Color         | Size  |
+| ------------: |:-------------| :-----:|
+| 1     | Blue | 10 |
+| 2     | White      |   11 |
+| 3 | Red      |    12 |
